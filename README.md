@@ -1,5 +1,5 @@
 # audio-gen
-A custom audio generator app in Godot
+A custom audio generator app in Godot. Write a Lua function and listen :)
 
 ![2025-06-03-171539_hyprshot](https://github.com/user-attachments/assets/764a6a23-af61-41f9-ad7c-488ef76cef64)
 
