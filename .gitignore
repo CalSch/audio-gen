@@ -1,5 +1,9 @@
+
+/export/
+
 # Godot 4+ specific ignores
 .godot/
+/android/
 .nomedia
 
 # Godot-specific ignores
